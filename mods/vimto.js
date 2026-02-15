@@ -26,6 +26,7 @@ elements.blackcurrant = {
 	category: "food",
 	state: "solid",
 	density: 1154,
+	breakInto: "smashed_blackcurrant"
 };
 elements.raspberry = {
 	color: "#e30b5d",
@@ -33,6 +34,7 @@ elements.raspberry = {
 	category: "food",
 	state: "solid",
 	density: 1054,
+	breakInto: "smashed_raspberry"
 };
 elements.smashed_blackcurrant = {
 	color: "#2b1910",
